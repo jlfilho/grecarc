@@ -1,0 +1,31 @@
+body{font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #333;}
+.export{font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #333;margin-top: 50px;margin-bottom: 50px;margin-right: auto;margin-left: 100px;}
+.cab_table{font-size:20px;text-transform:uppercase;font-weight:lighter;height:34px;line-height:34px;text-align: center;}
+.table {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:70%;
+	border-collapse:collapse;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.table td, th
+{
+	border:1px solid #5c9ccc;
+	padding:3px 7px 2px 7px;
+}
+.table th
+{
+	font-size:1.2em;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:4px;
+	background-color:#5c9ccc;
+	color:#fff;
+}
+.table tr.alt td
+{
+	color:#000;
+	background-color:#d0e5f5;
+}

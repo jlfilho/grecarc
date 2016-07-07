@@ -1,0 +1,2 @@
+FIND_BAR_DECORATOR_FIND_ENTRIES=\#\n\#Sat Jan 03 00\:51\:15 AMT 2015\n3\=$autoload['libraries'] \\\= array('database','session');\n2\=session\n1\=sess_\n0\=_key\n
+eclipse.preferences.version=1

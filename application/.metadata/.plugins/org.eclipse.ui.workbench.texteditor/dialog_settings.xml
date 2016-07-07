@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="wholeword"/>
+		<item value="_key" key="selection"/>
+		<list key="findhistory">
+			<item value="_key"/>
+			<item value="sess_"/>
+			<item value="session"/>
+			<item value="$autoload[&apos;libraries&apos;] = array(&apos;database&apos;,&apos;session&apos;);"/>
+		</list>
+	</section>
+</section>
